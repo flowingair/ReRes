@@ -25,5 +25,5 @@
         "<all_urls>",
         "unlimitedStorage"
     ],
-    "update_url": "http://clients2.google.com/service/update2/crx"
+    "update_url": "https://raw.githubusercontent.com/flowingair/ReRes/master/updates.xml"
 } 
